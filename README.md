@@ -1,3 +1,16 @@
+# This repo has been discontinued.
+
+It has exploded in a bunch of git-repos:
+
+ - [libsphinx](https://github.com/stef/libsphinx): low-level c library
+ - [ed448goldilocks](https://github.com/stef/ed448goldilocks): cross-compile with mingw for windows
+ - [pwdsphinx](https://github.com/stef/pwdsphinx/): python-wrapper around libsphinx, including client/server
+ - [websphinx-chrom](https://github.com/stef/websphinx-chrom): webextension for chrom/opera
+ - [websphinx-firefox](https://github.com/stef/websphinx-firefox): webextension for firefox
+ - [winsphinx](https://github.com/stef/winsphinx): build a package on linux for compiling a windows installer on windows
+
+# Readme below and contents of this repo preserved for historical reasons only.
+
 libdecaf-based sphinx password storage implementation
 
 sphinx: a password *S*tore that *P*erfectly *H*ides from *I*tself
